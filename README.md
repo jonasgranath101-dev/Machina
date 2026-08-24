@@ -1,4 +1,4 @@
-[!img Icon.png]
+![Logo Description](/Icon.png)
 
 # Machina
 
